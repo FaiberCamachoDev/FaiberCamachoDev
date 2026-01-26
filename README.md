@@ -15,6 +15,7 @@
 - 💬 Ask me about whatever you want, I love deep talks.
 - ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
 ## About me
+```markdown
 ```python
 print("Hi world! I'm Faiber <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alignt="center" height="25" alt="Comet" width="25"/>")
 
