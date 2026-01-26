@@ -13,6 +13,6 @@
 
 - 🔭 I’m currently working on <a href="https://www.metafusion.com.co/"><img src="https://www.metafusion.com.co/wp-content/uploads/cropped-MetaFusion-1-1-png.avif" alt="Metafusion Logo" height="25" align="center" /><a>
 - 🌱 I’m currently learning Software Development on <a href="https://riwi.io/"><img src="https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1768637129/Imagen1%20%281%29.png" height="25" align="center" /><a>
-- 💬 Ask me about: 
-- ⚡ Fun fact: ...
+- 💬 Ask me about whatever you want, I love deep talks.
+- ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" align="center" width="25" height="25"/>
 
