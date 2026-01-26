@@ -25,7 +25,7 @@ class Developer:
 me = Developer()
 print(f"Hi world! I'm {me.name} 🚀")
 ``` 
-**Junior Dev** & **3D Generalist** (Professional) | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obessesed ☕.
+**Junior Dev** & **3D Generalist** (Professional) | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obsessesed ☕.
 
 | 🌍 Language | 📊 Level |
 |------------|----------|
