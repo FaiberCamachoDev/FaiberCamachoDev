@@ -63,3 +63,4 @@ print(f"Hi world! I'm {me.name} 🚀")
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
 </picture>
+
