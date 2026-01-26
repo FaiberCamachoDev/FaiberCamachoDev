@@ -25,6 +25,6 @@ class Developer:
 me = Developer()
 print(f"Hi world! I'm {me.name} 🚀")
 ``` 
-- I'm from  Medellin, colombia.
+- I'm from  **Medellin, colombia**.
   I'm 20yo, I like anime, music and stuff.
-  Competitive player & coffe obessesed. <img src="https://www.flaticon.com/free-icon/coffee-cup_1047462?term=coffee&related_id=1047462" height="25"/>
+  Competitive player & coffe obessesed. <img src="https://www.flaticon.com/free-icon/coffee-cup_1047462" height="25"/>
