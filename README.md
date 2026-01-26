@@ -16,11 +16,10 @@
 - ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
 ## About me
 ```python
-print("Hi world! I'm Faiber ☄️")
 class Developer:
     def __init__(self):
         self.name = "Faiber"
-        self.role = "Software Developer"
+        self.role = "Software Developer & 3D Developer"
         self.likes = ["Gaming", "Coffee", "Deep talks"]
 
 me = Developer()
