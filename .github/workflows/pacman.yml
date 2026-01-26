@@ -14,6 +14,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: FaiberCamachoDev
+          theme: pacman
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
