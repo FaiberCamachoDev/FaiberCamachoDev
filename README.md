@@ -29,7 +29,7 @@ class Developer:
 me = Developer()
 print(f"Hi world! I'm {me.name} 🚀")
 ``` 
-**Junior Dev** & **3D Generalist (Professional)** | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obsessesed ☕.
+**Software Developer** & **3D Developer** | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obsessesed ☕.
 
 | 🌍 Language | 📊 Level |
 |------------|----------|
@@ -67,6 +67,6 @@ print(f"Hi world! I'm {me.name} 🚀")
 </picture> 
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
+<img align="center" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
 <br><br>
 
