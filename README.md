@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Software Development on <a href="https://riwi.io/"><img src="https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1768637129/Imagen1%20%281%29.png" height="25" align="center" /><a>
 - 💬 Ask me about whatever you want, I love deep talks.
 - ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-## About me
+## About me 
 ```python
 class Developer:
     def __init__(self):
@@ -50,7 +50,7 @@ print(f"Hi world! I'm {me.name} 🚀")
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"/>
-  <img width="15" />
+  <img width="15" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"/>
 </div>
 
