@@ -59,6 +59,8 @@ print(f"Hi world! I'm {me.name} 🚀")
   <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<br><br>
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg">
@@ -67,6 +69,8 @@ print(f"Hi world! I'm {me.name} 🚀")
 </picture> 
 
 <br><br>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
+</div>
 <br><br>
 
