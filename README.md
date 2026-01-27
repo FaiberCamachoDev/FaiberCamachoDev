@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning Software Development on <a href="https://riwi.io/"><img src="https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1768637129/Imagen1%20%281%29.png" height="25" align="center" /><a>
 - 💬 Ask me about whatever you want, I love deep talks.
 - ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-<br><br>
+<br><br> 
 ## About me
 ```python
 class Developer:
@@ -38,34 +38,37 @@ print(f"Hi world! I'm {me.name} 🚀")
 | English    | Upper-Intermediate (B2+)      |
 | Spanish    | Native   |
 <br><br>
-# Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="30">
-<div align="left">
+
+## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="30">
+
+ <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"/>
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"/>
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="blender logo"/>
 </div>
+
 <br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs username=FaiberCamachoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
-</picture>
-## ADVICE ⚠️
+</picture> 
+ADVICE ⚠️
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
 <br><br>
