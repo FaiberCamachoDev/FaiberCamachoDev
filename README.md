@@ -65,10 +65,8 @@ print(f"Hi world! I'm {me.name} 🚀")
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
 </picture>
-# ADVICE ⚠️
+## ADVICE ⚠️
 <br><br>
-
-- Keep Moving Forward
-<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
 <br><br>
 
