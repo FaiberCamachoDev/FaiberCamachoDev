@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning Software Development on <a href="https://riwi.io/"><img src="https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1768637129/Imagen1%20%281%29.png" height="25" align="center" /><a>
 - 💬 Ask me about whatever you want, I love deep talks.
 - ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+<br><br>
 ## About me
 ```python
 class Developer:
@@ -30,6 +31,7 @@ me = Developer()
 print(f"Hi world! I'm {me.name} 🚀")
 ``` 
 **Junior Dev** & **3D Generalist** (Professional) | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obsessesed ☕.
+<br><br>
 
 | 🌍 Language | 📊 Level |
 |------------|----------|
