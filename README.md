@@ -47,6 +47,19 @@ print(f"Hi world! I'm {me.name} 🚀")
     <img src="https://skillicons.dev/icons?i=git,docker,cs,vite,blender,bootstrap,tailwind,css,dotnet,express,firebase,html,java,js,lua,mongodb,mysql,nginx,postgres,postman,py,robloxstudio" />
   </a>
 </p>
+<br><br>
+
+## Contact Me
+<p align="center">
+  <a>
+  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer" />
+</a>
+  <a href="mailto:faibercamacho16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+  <img src="https://img.shields.io/badge/Discord-fb1608-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord fb1608" />
+</p>
+
 
 <br><br>
 <div align="center">
