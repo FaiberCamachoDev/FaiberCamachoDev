@@ -1,83 +1,68 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=24&center=true&vCenter=true&pause=1500&width=800&height=60&lines=Faiber+Camacho+|+Software+Engineer;Web+Development+Student;3D+Professional+Developer;Competitive+Programmer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;3D+%26+Web+Developer;Competitive+Programmer;Building+cool+things+with+code+%F0%9F%94%A5;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
+
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="260" height="260">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250"/>
 </div>
-<br><br>
+
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/faiber-camacho-520ab23a8/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  <a>
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profiles%20view:"  />
-  </div>
-  </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1024">
+    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" />
+</div>
 
+---
 
-- 🔭 I’m currently working on <a href="https://www.metafusion.com.co/"><img src="https://www.metafusion.com.co/wp-content/uploads/cropped-MetaFusion-1-1-png.avif" alt="Metafusion Logo" height="25" align="center" /><a>
-- 🌱 I’m currently learning Software Development on <a href="https://riwi.io/"><img src="https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1768637129/Imagen1%20%281%29.png" height="25" align="center" /><a>
-- 💬 Ask me about whatever you want, I love deep talks.
-- ⚡ Fun fact: Gamer & Coffe Drinker <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-## About me 
+## 🚀 About Me
+
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Faiber"
+        self.name = "Faiber Camacho"
         self.role = "Software Developer & 3D Developer"
-        self.likes = ["Gaming", "Coffee", "Deep talks"]
+        self.focus = ["Web Development", "3D Experiences", "Problem Solving"]
+
+    def say_hi(self):
+        return "Hi world! I'm Faiber 🚀"
 
 me = Developer()
-print(f"Hi world! I'm {me.name} 🚀")
-``` 
-**Software Developer** & **3D Developer** | I'm from  Medellin, colombia. Passionate about 3D and software development, my goal is create fire 🔥 blending both things. I'm 20yo, I like anime, music and stuff. Competitive player & coffe obsessesed ☕.
+print(me.say_hi())
+```
+💻 Software Developer & 🎮 3D Developer
+📍 Medellín, Colombia
+🔥 Passionate about blending code + 3D to build unique experiences
 
-| 🌍 Language | 📊 Level |
-|------------|----------|
-| English    | Upper-Intermediate (B2+)      |
-| Spanish    | Native   |
-
-## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="25" width="30">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cs,vite,blender,bootstrap,tailwind,css,dotnet,express,firebase,html,java,js,lua,mongodb,mysql,nginx,postgres,postman,py,robloxstudio" />
-  </a>
-</p>
-<br><br>
-
-## Contact Me
-<p align="center">
-  <a>
-  <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="Freelancer" />
-</a>
-  <a href="mailto:faibercamacho16@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-  <img src="https://img.shields.io/badge/Discord-fb1608-2C2F33?style=for-the-badge&logo=discord&logoColor=white" alt="Discord fb1608" />
-</p>
-
-
-<br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br><br>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg">
-</picture> 
-
-<br><br>
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="300" height="300" >
-</div>
-<br><br>
-
+🎯 Focused on clean, scalable and creative solutions
+🧠 Competitive programmer & problem solver
+☕ Coffee lover & gamer
+🎧 Into anime, music & deep conversations
+🌎 Languages
+Language	Level
+English	B2+ (Upper-Intermediate)
+Spanish	Native
+🧠 Skills
+🎨 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite" /> </p>
+⚙️ Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,express,java,python,lua,firebase" /> </p>
+🗄️ Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> </p>
+🛠️ Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio" /> </p>
+🔭 Currently
+🚀 Working at Metafusion
+📚 Studying Software Development at RIWI
+🧪 Exploring new ways to merge 3D + Web
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&show_icons=true&theme=dracula&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true" height="160"/> </div>
+🧩 Contribution Activity
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph.svg"> </picture>
+📫 Contact Me
+<div align="center"> <a href="mailto:faibercamacho16@gmail.com"> <img src="https://img.shields.io/badge/Gmail-faibercamacho16-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <img src="https://img.shields.io/badge/Discord-fb1608-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/Freelancer-Available-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250"/> </div> ```
