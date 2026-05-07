@@ -36,7 +36,7 @@ print(me.say_hi())
 ```
 
 ### 💻 Software Developer &  3D Developer
-**📍 Medellín, Colombia** 🔥 Passionate about blending code + 3D to build unique experiences  
+**📍 Medellín, Colombia**  Passionate about blending code + 3D to build unique experiences  
 
 * 🎯 Focused on clean, scalable and creative solutions
 * 🧠 Competitive programmer & problem solver
