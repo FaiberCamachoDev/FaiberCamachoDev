@@ -87,10 +87,10 @@ print(me.say_hi())
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true" />
+</p>
 
 ### 🧩 Contribution Activity
 <div align="center">
