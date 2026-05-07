@@ -87,10 +87,14 @@ print(me.say_hi())
 
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/FaiberCamachoDev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaiberCamachoDev&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Faiber's GitHub Stats" />
+  </a>
+  <a href="https://github.com/FaiberCamachoDev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true&langs_count=5" alt="Faiber's Top Languages" />
+  </a>
+</div>
 
 ### 🧩 Contribution Activity
 <div align="center">
