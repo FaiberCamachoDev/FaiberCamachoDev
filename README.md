@@ -87,7 +87,7 @@ print(me.say_hi())
 
 ## 📊 GitHub Stats & Activity
 
-### 🏆 Achievements
+#### 🏆 Achievements
 <div align="center">
   <a href="https://github.com/FaiberCamachoDev">
     <img src="https://github-profile-trophy.vercel.app/?username=FaiberCamachoDev&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -96,7 +96,7 @@ print(me.say_hi())
 
 <br>
 
-### 🔥 Streaks & 💻 Languages
+#### 🔥 Streaks & 💻 Languages
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiberCamachoDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaiberCamachoDev&layout=compact&theme=dracula&hide_border=true&langs_count=5" alt="Top Languages" height="170" />
@@ -104,7 +104,7 @@ print(me.say_hi())
 
 <br>
 
-### 🧩 Contribution Graph
+
 <div align="center">
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaiberCamachoDev/FaiberCamachoDev/output/pacman-contribution-graph-dark.svg"> 
