@@ -55,7 +55,7 @@ print(me.say_hi())
 
 ## 🔭 Currently
 
-* 🚀 Working at **Metafusion**
+* 🚀 Working like Freelance
 * 📚 Studying Software Development at **RIWI**
 * 🧪 Exploring new ways to merge 3D + Web
 
