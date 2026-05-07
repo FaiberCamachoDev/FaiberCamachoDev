@@ -1,20 +1,20 @@
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;3D+%26+Web+Developer;Competitive+Programmer;Building+cool+things+with+code+%F0%9F%94%A5;Always+learning+something+new](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;3D+%26+Web+Developer;Competitive+Programmer;Building+cool+things+with+code+%F0%9F%94%A5;Always+learning+something+new)" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;3D+%26+Web+Developer;Competitive+Programmer;Building+cool+things+with+code+%F0%9F%94%A5;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <img src="[https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5)" width="250"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250"/>
 </div>
 
 ---
 
 <div align="center">
-  <a href="[https://www.linkedin.com/in/faiber-camacho-520ab23a8/](https://www.linkedin.com/in/faiber-camacho-520ab23a8/)">
-    <img src="[https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+  <a href="https://www.linkedin.com/in/faiber-camacho-520ab23a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="[https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views](https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views)" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" />
 </div>
 
 ---
@@ -35,7 +35,7 @@ me = Developer()
 print(me.say_hi())
 ```
 
-### 💻 Software Developer & 🎮 3D Developer
+### 💻 Software Developer &  3D Developer
 **📍 Medellín, Colombia** 🔥 Passionate about blending code + 3D to build unique experiences  
 
 * 🎯 Focused on clean, scalable and creative solutions
