@@ -96,13 +96,13 @@ print(me.say_hi())
 
 <br>
 
-#### 🔥 Streaks & 💻 Activity Graph
+#### 🔥 Streaks 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaiberCamachoDev&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaiberCamachoDev&theme=dracula&hide_border=true&hide_title=true" alt="Activity Graph" height="170" />
+  
 </div>
 
-<br>
+<br><br>
 
 
 <div align="center">
