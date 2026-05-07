@@ -40,7 +40,7 @@ print(me.say_hi())
 
 * 🎯 Focused on clean, scalable and creative solutions
 * 🧠 Competitive programmer & problem solver
-* ☕ Coffee lover & gamer
+* ☕  Green Coffee lover 
 * 🎧 Into anime, music & deep conversations
 * 🎮 Natural-Born Gamer 
 
