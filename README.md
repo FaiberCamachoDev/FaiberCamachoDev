@@ -54,7 +54,7 @@ print(me.say_hi())
 ## 🔭 Currently
 
 * 🚀 Working like Freelance
-* 📚 Studying Software Development at **RIWI**
+* 📚 Software Development at **RIWI**
 * 🧪 Exploring new ways to merge 3D + Web
 
 ---
