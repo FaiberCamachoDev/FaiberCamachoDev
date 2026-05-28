@@ -11,9 +11,7 @@
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/faiber-camacho">
-    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" />
 </div>
 
@@ -118,6 +116,9 @@ print(me.say_hi())
 ## 📫 Contact Me
 
 <div align="center"> 
+  <a href="www.linkedin.com/in/faiber-camacho">
+    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:faibercamacho16@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-faibercamacho16-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a> 
