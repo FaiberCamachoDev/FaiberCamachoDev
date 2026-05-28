@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faiber-camacho-520ab23a8/">
+  <a href="www.linkedin.com/in/faiber-camacho">
     <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" />
