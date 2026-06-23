@@ -68,17 +68,17 @@ print(me.say_hi())
 
 ### ⚙️ Backend Development
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,express,java,python,lua,firebase" /> 
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,express,java,python,lua,firebase,laravel" /> 
 </p>
 
 ### 🗄️ Databases
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" /> 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" /> 
 </p>
 
 ### 🛠️ Tools & Technologies
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio" /> 
+  <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio,vercel,railway" /> 
 </p>
 
 ---
