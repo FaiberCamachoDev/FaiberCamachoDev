@@ -88,14 +88,11 @@ print(me.say_hi())
   <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio,vercel,railway" /> 
 </p>
 
-### 🧠 Learning Apex (Salesforce)
-<div align="center">
-  <img src="https://img.icons8.com/color/96/salesforce.png" />
-</div>
+###  Learning Apex (Salesforce)
 
-* 🚀 Learning Apex (Salesforce backend language)
-* ⚡ Understanding Triggers, SOQL, Governor Limits
-* 🔗 Connecting my experience in .NET / Java / Laravel → Apex
+*  Learning Apex (Salesforce backend language)
+*  Understanding Triggers, SOQL, Governor Limits
+*  Connecting my experience in .NET / Java / Laravel → Apex
 ---
 
 ## 📊 GitHub Stats 
