@@ -53,7 +53,7 @@ print(me.say_hi())
 
 ## 🔭 Currently
 
-* https://img.icons8.com/color/24/salesforce.png Working as **Salesforce Consultant** at **BlackBirdLabs**🐦‍⬛
+* 🐦‍⬛ Working as **Salesforce Consultant** at **BlackBirdLabs**
 * 📚 Software Development at **RIWI**
 * 🧪 Exploring new ways to merge 3D + Web
 
@@ -76,11 +76,28 @@ print(me.say_hi())
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" /> 
 </p>
 
+### ☁️ Cloud & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://img.icons8.com/color/48/salesforce.png" height="48" />
+</p>
+``
+
 ### 🛠️ Tools & Technologies
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio,vercel,railway" /> 
 </p>
 
+---
+### 🧠 Learning Apex (Salesforce)
+
+<div align="center">
+  <img src="https://img.icons8.com/color/96/salesforce.png" />
+</div>
+* 🚀 Learning Apex (Salesforce backend language)
+* ⚡ Understanding Triggers, SOQL, Governor Limits
+* 🏗️ Applying architecture patterns inside Salesforce ecosystem
+* 🔗 Connecting my experience in .NET / Java / Laravel → Apex
 ---
 
 ## 📊 GitHub Stats 
