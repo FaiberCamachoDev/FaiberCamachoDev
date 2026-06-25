@@ -53,7 +53,7 @@ print(me.say_hi())
 
 ## 🔭 Currently
 
-* 🚀 Working like Freelance
+* https://img.icons8.com/color/24/salesforce.png Working as **Salesforce Consultant** at **BlackBirdLabs**🐦‍⬛
 * 📚 Software Development at **RIWI**
 * 🧪 Exploring new ways to merge 3D + Web
 
