@@ -1,18 +1,17 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;3D+%26+Web+Developer;Competitive+Programmer;Building+cool+things+with+code+%F0%9F%94%A5;Always+learning+something+new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;Salesforce+Consultant+%7C+3D+Developer;Building+scalable+and+creative+digital+experiences" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="250" alt="Developer animation" />
 </div>
 
 ---
 
 <div align="center">
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaiberCamachoDev.FaiberCamachoDev&left_text=Profile%20Views" alt="Profile views" />
 </div>
 
 ---
@@ -23,24 +22,32 @@
 class Developer:
     def __init__(self):
         self.name = "Faiber Camacho"
-        self.role = "Software Developer & 3D Developer"
-        self.focus = ["Web Development", "3D Experiences", "Problem Solving"]
+        self.role = "Software Developer | Salesforce Consultant | 3D Developer"
+        self.focus = [
+            "Scalable web applications",
+            "Salesforce solutions",
+            "Interactive 3D experiences",
+        ]
 
     def say_hi(self):
-        return "Hi world! I'm Faiber 🚀"
+        return "Hi! I'm Faiber — I turn ideas into useful digital products 🚀"
 
 me = Developer()
 print(me.say_hi())
 ```
 
-### 💻 Software Developer &  3D Developer
-**📍 Medellín, Colombia**  Passionate about blending code + 3D to build unique experiences  
+### 💻 Software Developer | Salesforce Consultant | 3D Developer
+**📍 Medellín, Colombia**
 
-* 🎯 Focused on clean, scalable and creative solutions
-* 🧠 Competitive programmer & problem solver
-* ☕  Green Coffee lover 
-* 🎧 Into anime, music & deep conversations
-* 🎮 Natural-Born Gamer 
+I design and build practical, scalable software solutions with a strong focus on web development, Salesforce consulting, and interactive 3D experiences. I enjoy transforming complex requirements into maintainable products that create value for users and teams.
+
+* 🎯 Focused on clean architecture, maintainable code, and continuous improvement
+* ☁️ Building expertise in Salesforce development, Apex, SOQL, and platform best practices
+* 🌐 Developing modern web applications and exploring the intersection of web technologies and 3D
+* 🧠 Passionate about problem-solving, learning, and turning ideas into working solutions
+* 🤝 Comfortable collaborating across technical and business contexts
+
+Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful conversations.
 
 ### 🌎 Languages
 
@@ -53,9 +60,10 @@ print(me.say_hi())
 
 ## 🔭 Currently
 
-* 🐦‍⬛ Working as **Salesforce Consultant** at **BlackBirdLabs**
-* 📚 Software Development at **RIWI**
-* 🧪 Exploring new ways to merge 3D + Web
+* 🐦‍⬛ Working as a **Salesforce Consultant** at **BlackBirdLabs**, helping design and implement solutions aligned with business needs
+* 📚 Studying **Software Development** at **RIWI**, strengthening my foundations in software engineering and professional development
+* ⚙️ Learning **Apex, Triggers, SOQL, and Governor Limits** to deepen my Salesforce development expertise
+* 🧪 Exploring how web technologies and 3D can be combined to create more engaging digital experiences
 
 ---
 
@@ -88,11 +96,11 @@ print(me.say_hi())
   <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio,vercel,railway" /> 
 </p>
 
-###  Learning Apex (Salesforce)
+### Learning Apex (Salesforce)
 
-*  Learning Apex (Salesforce backend language)
-*  Understanding Triggers, SOQL, Governor Limits
-*  Connecting my experience in .NET / Java / Laravel → Apex
+* Learning Apex as a Salesforce backend language
+* Understanding Triggers, SOQL, and Governor Limits
+* Connecting my experience in .NET, Java, and Laravel with Apex development
 ---
 
 ## 📊 GitHub Stats 
@@ -128,18 +136,17 @@ print(me.say_hi())
 ## 📫 Contact Me
 
 <div align="center"> 
-  <a href="www.linkedin.com/in/faiber-camacho">
-    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/faiber-camacho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Faiber_Camacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:faibercamacho16@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-faibercamacho16-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Gmail-faibercamacho16-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> 
   </a> 
-  <img src="https://img.shields.io/badge/Discord-fb1608-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Freelancer-Available-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Discord-fb1608-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> 
 </div>
 
 <br>
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250"/> 
+  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="250" alt="Coding animation" /> 
 </div>
