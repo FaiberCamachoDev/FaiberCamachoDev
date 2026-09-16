@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;Salesforce+Consultant+%7C+3D+Developer;Building+scalable+and+creative+digital+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&color=8B5CF6&size=26&center=true&vCenter=true&pause=1200&width=900&height=70&lines=Faiber+Camacho+%7C+Software+Engineer;Salesforce+Consultant+%7C+3D+Developer;Building+web+experiences+with+code+and+3D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,34 +18,18 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Faiber Camacho"
-        self.role = "Software Developer | Salesforce Consultant | 3D Developer"
-        self.focus = [
-            "Scalable web applications",
-            "Salesforce solutions",
-            "Interactive 3D experiences",
-        ]
-
-    def say_hi(self):
-        return "Hi! I'm Faiber — I turn ideas into useful digital products 🚀"
-
-me = Developer()
-print(me.say_hi())
-```
-
 ### 💻 Software Developer | Salesforce Consultant | 3D Developer
 **📍 Medellín, Colombia**
 
-I design and build practical, scalable software solutions with a strong focus on web development, Salesforce consulting, and interactive 3D experiences. I enjoy transforming complex requirements into maintainable products that create value for users and teams.
+I am a software developer and Salesforce consultant interested in understanding how a business works before proposing a solution. I focus on learning the real needs behind a requirement and building software that is useful for the people who will use it.
 
-* 🎯 Focused on clean architecture, maintainable code, and continuous improvement
-* ☁️ Building expertise in Salesforce development, Apex, SOQL, and platform best practices
-* 🌐 Developing modern web applications and exploring the intersection of web technologies and 3D
-* 🧠 Passionate about problem-solving, learning, and turning ideas into working solutions
-* 🤝 Comfortable collaborating across technical and business contexts
+I work with web development, Salesforce, and 3D. I am also exploring how React, GSAP, and React Three Fiber can be combined to create web pages with strong visual impact by integrating 3D into the experience. I use AI to automate processes and workflows, both for my own work and for third-party projects.
+
+* 🎯 Interested in learning, understanding business needs, and finding practical solutions
+* ☁️ Working with Salesforce development using Apex, SOQL, methods, functions, and Triggers
+* 🌐 Creating web experiences with React, GSAP, and React Three Fiber by integrating 3D into web development
+* 🤖 Using AI to automate processes and workflows for personal and external projects
+* 🧠 Enjoying problem-solving, collaboration, and continuous learning
 
 Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful conversations.
 
@@ -58,12 +42,13 @@ Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful 
 
 ---
 
-## 🔭 Currently
+## ✅ Recently
 
-* 🐦‍⬛ Working as a **Salesforce Consultant** at **BlackBirdLabs**, helping design and implement solutions aligned with business needs
-* 📚 Studying **Software Development** at **RIWI**, strengthening my foundations in software engineering and professional development
-* ⚙️ Learning **Apex, Triggers, SOQL, and Governor Limits** to deepen my Salesforce development expertise
-* 🧪 Exploring how web technologies and 3D can be combined to create more engaging digital experiences
+* 🐦‍⬛ Working as a **Salesforce Consultant** at **BlackBirdLabs**, learning about business processes and helping translate requirements into Salesforce solutions
+* 🎓 Successfully completed the **Software Development training program at RIWI**
+* ⚙️ Applying my knowledge of **Apex, SOQL, methods, functions, and Triggers** in Salesforce development
+* 🎨 Creating visually impactful web pages with **React, GSAP, and React Three Fiber** by integrating 3D into the experience
+* 🤖 Using AI to automate processes and workflows, both for my own work and for third-party projects
 
 ---
 
@@ -71,7 +56,7 @@ Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful 
 
 ### 🎨 Frontend Development
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,gsap" /> 
 </p>
 
 ### ⚙️ Backend Development
@@ -86,21 +71,26 @@ Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful 
 
 ### ☁️ Cloud & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://img.icons8.com/color/48/salesforce.png" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,azuredevops" />
+  <img src="https://img.icons8.com/color/48/salesforce.png" height="48" alt="Salesforce" />
 </p>
 
+### 📋 Project Management & Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jira,grafana" />
+</p>
 
 ### 🛠️ Tools & Technologies
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,blender,robloxstudio,vercel,railway" /> 
 </p>
 
-### Learning Apex (Salesforce)
+### Salesforce Development
 
-* Learning Apex as a Salesforce backend language
-* Understanding Triggers, SOQL, and Governor Limits
-* Connecting my experience in .NET, Java, and Laravel with Apex development
+* Apex development with functions, methods, and Triggers
+* SOQL for querying and working with Salesforce data
+* Understanding Governor Limits and Salesforce platform concepts
+* Connecting my experience in .NET, Java, and Laravel with Salesforce development
 ---
 
 ## 📊 GitHub Stats 
@@ -121,7 +111,6 @@ Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful 
 </div>
 
 <br><br>
-
 
 <div align="center">
   <picture> 
