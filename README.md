@@ -26,9 +26,6 @@ I am a software developer and Salesforce consultant interested in understanding 
 I work with web development, Salesforce, and 3D. I am also exploring how React, GSAP, and React Three Fiber can be combined to create web pages with strong visual impact by integrating 3D into the experience. I use AI to automate processes and workflows, both for my own work and for third-party projects.
 
 * 🎯 Interested in learning, understanding business needs, and finding practical solutions
-* ☁️ Working with Salesforce development using Apex, SOQL, methods, functions, and Triggers
-* 🌐 Creating web experiences with React, GSAP, and React Three Fiber by integrating 3D into web development
-* 🤖 Using AI to automate processes and workflows for personal and external projects
 * 🧠 Enjoying problem-solving, collaboration, and continuous learning
 
 Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful conversations.
@@ -46,7 +43,6 @@ Outside of software, I enjoy green coffee, anime, music, gaming, and meaningful 
 
 * 🐦‍⬛ Working as a **Salesforce Consultant** at **BlackBirdLabs**, learning about business processes and helping translate requirements into Salesforce solutions
 * 🎓 Successfully completed the **Software Development training program at RIWI**
-* ⚙️ Applying my knowledge of **Apex, SOQL, methods, functions, and Triggers** in Salesforce development
 * 🎨 Creating visually impactful web pages with **React, GSAP, and React Three Fiber** by integrating 3D into the experience
 * 🤖 Using AI to automate processes and workflows, both for my own work and for third-party projects
 
